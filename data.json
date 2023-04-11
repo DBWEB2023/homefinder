@@ -1,0 +1,284 @@
+[
+    {
+        "houseID": "0001",
+        "houseTitle": "Gemini Gardens Living",
+        "housePicture": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/06/27/98/the-up-house.jpg?w=1200&h=-1&s=1",
+        "houseRentPrice": "2600€",
+        "houseAddress": "Mayor St. Upper, 75",
+        "carrousselPictures": [
+            "https://raisingteenstoday.com/wp-content/uploads/2021/07/Teen-Girl-Bedrooms-25.jpg",
+            "https://media.architecturaldigest.com/photos/5eac5fa22105f13b72dede45/master/pass/111LexowAve_Aug18-1074.jpg",
+            "https://images.immediate.co.uk/production/volatile/sites/38/2022/06/Beige-bedroom-poster-store-6446675.jpg?quality=90&resize=700,511",
+            "https://cdn-blog.prose.com/1/2021/11/Screen-Shot-2021-10-28-at-3.42.11-PM-832x1024.png",
+            "https://wpcdn.bigbathroomshop.co.uk/info/blog/wp-content/uploads/2019/09/minimalist-bathroom-idea.jpg?strip=all&lossy=1&quality=70&ssl=1"
+        ],
+        "houseDetails": {
+            "numOfBedrooms": 3,
+            "numOfBathrooms": 2,
+            "numOfParkingSpaces": 2,
+            "petFriendly": "Yes",
+            "minLeaseTime": "2 years"
+        },
+        "description": "These 2 bedroom apartments in Gemini gardens are skillfully designed to maximise space and light. Cleverly divided to give clear definition to all spaces, this apartment offers a main living area and dining area with a bright corner kitchen. the living space opens onto 2 bedrooms on either side.",
+        "additionalInfo": "Located in Mayor St. Upper, 75 There is also a main bathroom and an ensuite. Fitted to the highest standard, this development offes a brand new experience in Dublin living with top class amenities on site.  We can't wait to meet your family!"
+    },
+    {
+        "houseID": "0002",
+        "houseTitle": "Barna House Demesne",
+        "housePicture": "https://upload.wikimedia.org/wikipedia/commons/5/50/Appartment_Building_in_Prishtina2.jpg",
+        "houseRentPrice": "850€",
+        "houseAddress": "Barna Demesne",
+        "carrousselPictures": [
+            "https://www.re-thinkingthefuture.com/wp-content/uploads/2021/04/A3762-20-Futuristic-bedroom-interior-ideas.jpg",
+            "https://www.mydomaine.com/thmb/vNjAAJvsau7doFQquNtuDpiOg1s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/242494026_400213788293224_7339194010460992436_n-954bd9833371419ba855b06dab3fec49.jpg",
+            "https://www.jessannkirby.com/wp-content/uploads/2020/01/AMP-Bathroom-Reveal-44-copy-1440x1981.jpg"
+         ],
+        "houseDetails": {
+            "numOfBedrooms": 2,
+            "numOfBathrooms": 1,
+            "numOfParkingSpaces": 0,
+            "petFriendly": "No",
+            "minLeaseTime": "1 year"
+        },
+        "description": "This is a large two bedroom duplex apartment available to rent in a highly sought after, exclusive, gated development situated on the shores of Rusheen Bay. Barna House is a listed building of historical significance. The Duplex apartment consists of two double bedrooms, one en-suite, Kitchen, additional bathroom downstairs with bath. Upstairs consist of a Splendid living room with 13 foot ceilings and an open fireplace with views over Galway Bay and one additional bathroom with shower.",
+        "additionalInfo": "Close to Barna Woods, Silverstrand and Barna village. The Duplex apartment is located within Barna House which was built in 1778.  There are fantastic views from the duplex apartment which the pictures do not do it justice. Parking and bins are included."
+    },
+    {
+        "houseID": "0003",
+        "houseTitle": "Rosewater Palazzo Living",
+        "housePicture": "https://upload.wikimedia.org/wikipedia/commons/4/47/Harrison_Apartment_Building%2C_Washington%2C_D.C.jpg",
+        "houseRentPrice": "1500€",
+        "houseAddress": "Eblana Avenue, 1900",
+        "carrousselPictures": [
+            "https://johnlewis.scene7.com/is/image/JohnLewis/bedroom-ideas-block1-040121",
+            "https://i.pinimg.com/originals/51/1d/55/511d557b4fb7577c0aa6f38e6bc9d14a.jpg"
+          ],
+        "houseDetails": {
+            "numOfBedrooms": 1,
+            "numOfBathrooms": 2,
+            "numOfParkingSpaces": 2,
+            "petFriendly": "Yes",
+            "minLeaseTime": "1 year"
+        },
+        "description": "Flexible to your Needs: We offer stays from 6 to 12 months at a price per month that is all inclusive. Suites are suitable for lone occupancy only. From bed linen and housekeeping to utilities and the onsite fitness suite, you pay one flat monthly fee for access to everything. No hidden costs or nasty surprises.",
+        "additionalInfo": "Everyone is welcome at Niche Living. We greet new people and new ideas with open arms, and do our best to help you feel at home. We've created a community and culture that celebrates diversity and where there's something for everyone to enjoy. Because we're all different, and that's what makes life great."
+    },
+    {
+        "houseID": "0004",
+        "houseTitle": "Marina Residential",
+        "housePicture": "https://www.mydomaine.com/thmb/yE8D0r4ov5b3VKlF6Kshd9lrR5c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/binary-4--583f06853df78c6f6a9e0b7a.jpeg",
+        "houseRentPrice": "1200€",
+        "houseAddress": "Lime street, 284",
+        "carrousselPictures": [
+            "https://www.thespruce.com/thmb/1RmBCHXOAF5vt3Ui5AXS6SupDtk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Sandeau-CarolineAndreoni-72b3e00ca32a4285903a9645796891e7.jpeg",
+            "https://www.goodhomesmagazine.com/wp-content/uploads/2020/02/matalan_new_beginnings_bedroom_031.jpg",
+            "https://momsgotthestuff.com/wp-content/uploads/2021/01/bedroom-ideas-6.jpg",
+            "https://cdn.mos.cms.futurecdn.net/Qv2WNEWF9QnTZGiTCjyw9N.jpgg",
+            "https://images.squarespace-cdn.com/content/v1/580e572b29687f9f7c254951/1518803107750-JLNLKAQSKMEO0KYO7Y1V/thejoshuatreehouse_23507689_1551251308323134_3029971321338462208_n.jpg?format=1000w",
+            "https://i.pinimg.com/236x/9e/c0/68/9ec068987de8d32b1ff28ec7670db0e0.jpg",
+            "https://wpcdn.bigbathroomshop.co.uk/info/blog/wp-content/uploads/2019/09/92fc648b60f176129504ef6181da3ecb.jpg?strip=all&lossy=1&quality=70&resize=564%2C846&ssl=1",
+            "https://www.hellolovelystudio.com/wp-content/uploads/2021/03/jenny-martin-design-white-classic-bathroom-marble-console-sink.jpg"
+         ],
+        "houseDetails": {
+            "numOfBedrooms": 5,
+            "numOfBathrooms": 3,
+            "numOfParkingSpaces": 3,
+            "petFriendly": "Yes",
+            "minLeaseTime": "1 year"
+        },
+        "description": "Experience what Marina Residential has to offer at the new build apartments now available in the heart of the city. The development comprises of one and two-bedroom apartments that are designed and styled to the very highest of standards highly rated. One Lime Street will offer an exceptional living experience. Residents will enjoy a large gym with accompanying changing rooms and showers, media room, generous resident lounge, on-site maintenance and management services, access to high speed internet and many landscaped outdoor communal spaces including a first-floor terrace.",
+        "additionalInfo": "The interiors are spacious, and light filled spread across four separate blocks ranging from ground to sixth floor. Accommodation comprises open plan living/kitchen and dining area, one or two double bedrooms with built in wardrobes, main bathroom, storage room and private balconies or terraces. They are fully furnished and fitted with Miele kitchen appliances; parking is available if required."
+    },
+    {
+        "houseID": "0005",
+        "houseTitle": "Lilypark Gardens Plaza Residential",
+        "housePicture": "https://images.unsplash.com/photo-1459535653751-d571815e906b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aG91c2UlMjBmcm9udHxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "houseRentPrice": "800€",
+        "houseAddress": "Boyne Street,303",
+        "carrousselPictures": [
+            "https://www.designideasguide.com/wp-content/uploads/2021/11/Aesthetic-Bedroom-Ideas.jpg.webp",
+            "https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/home-improvement/wp-content/uploads/2022/07/piled-pillowed.jpeg.jpg",
+            "https://www.thenordroom.com/wp-content/uploads/2021/05/10.jpg"
+         ],
+        "houseDetails": {
+            "numOfBedrooms": 2,
+            "numOfBathrooms": 1,
+            "numOfParkingSpaces": 1,
+            "petFriendly": "Yes",
+            "minLeaseTime": "2 years"
+        },
+        "description": "Stunning 2 penthouse bedroom apartment available to rent immediately. Lilypark Gardens Plaza Residential is within a stones throw of Parma Square and right in the centre of all the has to offer.",
+        "additionalInfo": "These stunning apartments come fully furnished with custom-designed interiors of the highest quality. Residents have full 24 hour access to a private state of the art gym and business centre fully equipped with the latest technology."
+    },
+    {
+        "houseID": "0006",
+        "houseTitle": "Blightstar Quarter",
+        "housePicture": "https://thumbs.dreamstime.com/b/houses-gay-street-new-york-city-28813313.jpg",
+        "houseRentPrice": "850€",
+        "houseAddress": "North Wall Quay, 22",
+        "carrousselPictures": [
+            "https://www.mydomaine.com/thmb/HExsS5m41MtnjUb0TR8Hq2Q-xFE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/167039251_142918014342259_2615330145383193640_n-b29c31aea47f48bcb323db16c813f51b.jpg",
+            "http://images.girlslife.com/posts/039/39038/94724c0c9be133520bd9236035155c86.jpg",
+            "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/paul-lam-austin-main-bath-1643315130.jpg?crop=1xw:1xh;center,top&resize=480:*",
+            "https://www.thespruce.com/thmb/f1WWnQZ9NnzPCPB5aFKIRGcWUuk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/17-1c1c27554ed546aab1f06fd8d446d734.jpg"
+         ],
+        "houseDetails": {
+            "numOfBedrooms": 2,
+            "numOfBathrooms": 2,
+            "numOfParkingSpaces": 1,
+            "petFriendly": "Yes",
+            "minLeaseTime": "2 years"
+        },
+        "description": "Blightstar Quarter, the residential. Sitting at the forefront of the regeneration of the Docklands and consisting of 300 premium apartments, Blightstar Quarter sets a new standard of rented apartment living in the city. Not only will residents benefit from a professional service, where all the homes are looked after by Greystar, but they will also enjoy exceptional quality apartments and access to a host of additional benefits. The private gym is flooded with natural light and features a raw industrial aesthetic.",
+        "additionalInfo": "On top of all this, there's also 210 parking spaces, secure bike storage, a concierge service, landscaped gardens and a postal room with secure parcel storage.  All apartments are pet friendly and residents can choose from furnished or unfurnished options in an array of floorplans, some with waterfront views."
+    },
+    {
+        "houseID": "0007",
+        "houseTitle": "Selena Woods",
+        "housePicture": "https://hgtvhome.sndimg.com/content/dam/images/hgtv/fullset/2019/6/26/1/DOTY2019_Andrew-Suvalsky-Designs_Sutton_4.jpg.rend.hgtvcom.966.644.suffix/1561557149588.jpeg",
+        "houseRentPrice": "1000€",
+        "houseAddress": "Hyde park, 12",
+        "carrousselPictures": [
+            "https://www.mydomaine.com/thmb/LcVJIgxgd8YpGotzdODxh5xQmPQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/spacejoy-nEtpvJjnPVo-unsplash1-8dc2f48f6c334ceca4f264dc608c5707.jpg",
+            "https://cdn.decoist.com/wp-content/uploads/2018/08/Penny-tiled-hexagonal-flooring-for-the-small-apartment-bathroom.jpg"
+         ],
+        "houseDetails": {
+            "numOfBedrooms": 1,
+            "numOfBathrooms": 1,
+            "numOfParkingSpaces": 1,
+            "petFriendly": "Yes",
+            "minLeaseTime": "1 year"
+        },
+        "description": "Selena Woods is a brand new development designed for modern, elegant living. The homes comprise a striking crescent-shaped block, set among beautiful mature woodland in Dalkey, a long established and highly sought-after residential address. The exterior presents a combination of bright brickwork and charcoal black highlights to accentuate its curves and symmetry, thus creating a collective grandeur in the overall aesthetic.",
+        "additionalInfo": "Residents will also benefit from a private dedicated pavillion, which houses a gym and residents' lounge.  There is an outdoor children's play area and ample parking for 80 cars and 160 bicycles.  Manicured 'wild' areas punctuate the foot of the building, pulling the beauty of the wooded surroundings right to the door."
+    },
+    {
+        "houseID": "0008",
+        "houseTitle": "Docklands Plaza Residential",
+        "housePicture": "https://wp-tid.zillowstatic.com/bedrock/app/uploads/sites/26/fetured-how-to-rent-an-apartment-in-a-townhouse-colorful-townhomes-ab01dc.jpg",
+        "houseRentPrice": "1250€",
+        "houseAddress": "Marine School Walk, 23",
+        "carrousselPictures": [
+            "https://cdn.mos.cms.futurecdn.net/aNG7sKMeiBFYFh2DqUxVeV.jpg",
+            "https://media.architecturaldigest.com/photos/570c0d94c02e16a3181e80e1/16:9/w_3007,h_1691,c_limit/white-bedrooms-05.jpg",
+            "https://uploads-ssl.webflow.com/5db0fce271caa26ad1ca0613/5e18cc88d27bcf43c704809b_1-bedroom-apartment.jpg",
+            "https://img.staticmb.com/mbcontent//images/uploads/2020/9/modern-bathroom-ideas-for-apartment.jpg",
+            "https://www.irvinecompanyapartments.com/rental-living/wp-content/uploads/2020/04/bathroom-1024x683.jpeg",
+            "https://images.prismic.io/amli-website%2Ff8bbf960-b557-4b87-8820-c52bc3d1114a_flagler+village_interior_bathroom+1.jpg?auto=compress,format"
+         ],
+        "houseDetails": {
+            "numOfBedrooms": 2,
+            "numOfBathrooms": 2,
+            "numOfParkingSpaces": 2,
+            "petFriendly": "Yes",
+            "minLeaseTime": "1 year"
+        },
+        "description": "Linking luxury, lifestyle, and location. Savills is delighted to present The Benson to the rental market – this is a truly impressive development located in the heart of the Docklands. The Benson offers residents a choice of 1,2- and 3-bedroom apartments and duplexes, encompassing a luxury furniture package and elegant finishes throughout.",
+        "additionalInfo": "The Docklands location is known as a major centre of employment across tech, banking, finance, and other sectors as well an abundance of hotels, eaters, and gyms in the immediate area. It is also only a 20minute walk to leading shopping area, Grafton Street and Henry Street is only a 15minute walk away."
+    },
+    {
+        "houseID": "0009",
+        "houseTitle": "Occe Living",
+        "housePicture": "https://g5-assets-cld-res.cloudinary.com/image/upload/q_auto,f_auto,c_fill,g_center,h_1100,w_2000/v1601914830/g5/g5-c-5fxkmaq4c-coast-real-estate/g5-cl-1kc8phin6h-acqua-apartments/uploads/CLS_6485-Edit_merrsm.jpg",
+        "houseRentPrice": "850€",
+        "houseAddress": "St. Brigid's Road, 10009",
+        "carrousselPictures": [
+            "https://www.brickunderground.com/sites/default/files/blog/images/fontan_added%20bedroom.jpg",
+            "https://apartmentsnwsanantonio.com/wp-content/uploads/2018/12/Apartment-Rentals-San-Antonio-Bedroom.jpg",
+            "https://images.prismic.io/amli-website%2Ff8bbf960-b557-4b87-8820-c52bc3d1114a_flagler+village_interior_bathroom+1.jpg?auto=compress,format"
+         ],
+        "houseDetails": {
+            "numOfBedrooms": 3,
+            "numOfBathrooms": 3,
+            "numOfParkingSpaces": 0,
+            "petFriendly": "Yes",
+            "minLeaseTime": "2 years"
+        },
+        "description": "Set in the established neighborhood of Killester, right next to Clontarf, Occu Brookwood is a collection of excellently finished apartments which sit within the grounds of our stunning refurbished and redeveloped period building. Enjoy spacious, bespoke apartments with crafted interiors, landscaped surrounds and easy access to Dublin city centre, just a 5 minute walk to the nearest Dart station (Killiester)—a speedy 2 stops to the heart of the city (10-15 mins).",
+        "additionalInfo": "This stunning high-end development, set across three buildings, is full of character inside and out. Each duplex apartment across the beautiful period building have been finished to the highest standard. Enjoy bright open-plan living spaces, excellent finishes and considered design that will help you feel at home right away."
+    },
+    {
+        "houseID": "0010",
+        "houseTitle": "Halway Living",
+        "housePicture": "https://f1a3d4fea3a9a877e732-356deb4d9644d2835b7712e712dbd1ea.ssl.cf2.rackcdn.com/440472/6612219.v.d7199fdfd5fdb4452ca2623d9eec6930.jpg",
+        "houseRentPrice": "850€",
+        "houseAddress": "Cherrywood, 18",
+        "carrousselPictures": [
+            "https://cdn.decoist.com/wp-content/uploads/2020/04/Separate-bedroom-in-the-one-bedroom-apartment-gives-you-ample-privacy-84410.jpg",
+            "https://uploads-ssl.webflow.com/5db0fce271caa26ad1ca0613/5e18cc88d27bcf43c704809b_1-bedroom-apartment.jpg",
+            "https://www.servereworldsystem.com/include/blog/0579/5790716478ra.jpg"
+         ],
+        "houseDetails": {
+            "numOfBedrooms": 2,
+            "numOfBathrooms": 1,
+            "numOfParkingSpaces": 0,
+            "petFriendly": "Yes",
+            "minLeaseTime": "2 years"
+        },
+        "description": "This stylish 2 bed apartment boasts an open plan kitchen and living area which is carefully designed for the curation of space with full-height windows letting light flood in. The bedrooms have comfortable custom-made queen-sized beds with built in wardrobes (master en-suite) and a separate modern bathroom. The bespoke kitchen is fully integrated with high spec appliances including a full fridge/freezer, ceramic hob, oven and dishwasher. There is a washer and drying machine in the separate utility room and an additional storage cupboard off the hallway.",
+        "additionalInfo": "Please note rent rates will vary based on size and position of each apartment. Prices displayed are 'from' rates. Please contact our team for further information."
+    },
+    {
+        "houseID": "0011",
+        "houseTitle": "Griffith Wood",
+        "housePicture": "https://s3.amazonaws.com/twotreesny/mh1200x854-1647635818817.jpeg",
+        "houseRentPrice": "850€",
+        "houseAddress": "Griffith Avenue, 200",
+        "carrousselPictures": [
+            "https://i0.wp.com/ppmapartments.com/wp-content/uploads/2021/03/1-3.jpg?fit=2200%2C1468&ssl=1",
+            "https://www.redfin.com/blog/wp-content/uploads/2022/09/spacejoy-xkJ2_THgKmk-unsplash.jpg",
+            "https://www.londonperfect.com/blog/wp-content/uploads/2018/10/Our-Best-Apartments-With-Beautiful-Bathrooms-by-London-Perfect1.jpg"
+         ],
+        "houseDetails": {
+            "numOfBedrooms": 5,
+            "numOfBathrooms": 3,
+            "numOfParkingSpaces": 0,
+            "petFriendly": "Yes",
+            "minLeaseTime": "2 years"
+        },
+        "description": "Griffith Wood recently launched an unrivalled and well designed amenity space with concierge, comprising of private dining/ entertaining spaces, lounge areas, meeting rooms, gym, yoga studio, screening room and an expansive co-working space available for the enjoyment of our residents. Life at Griffith Wood is the best of both worlds, where city living meets suburban serenity.",
+        "additionalInfo": "Griffith Wood is an accessible, pet-friendly development, with an on-site playground and parkland setting. Your apartment is located on a main bus and bicycle route, and within walking distance of a DART station, as well as the area’s wonderful array of local shops, cafés, restaurants and schools."
+    },
+    {
+        "houseID": "0012",
+        "houseTitle": "Sunlight Residential",
+        "housePicture": "https://g5-assets-cld-res.cloudinary.com/image/upload/q_auto,f_auto,c_fill,g_center,h_1200,w_2000/v1619825532/g5/g5-c-5g13txeqo-mark-taylor-companies-client/g5-cl-1igb2ifdfo-mark-taylor-residential/uploads/057_ivippy.jpg",
+        "houseRentPrice": "2850€",
+        "houseAddress": "Kennedy Avenue, 2901",
+        "carrousselPictures": [
+            "https://pyxis.nymag.com/v1/imgs/3b7/66f/9f550fcdabe47c4fd4f7943e4988993522-small-apartment-lede.jpg",
+            "https://cdngeneral.rentcafe.com/dmslivecafe/3/189364/frank-apt-platinum-(4)-web.jpg?crop=(0,0,300,225)&cropxunits=300&cropyunits=225&width=380",
+            "https://cdn.decoist.com/wp-content/uploads/2018/08/Penny-tiled-hexagonal-flooring-for-the-small-apartment-bathroom.jpg"
+         ],
+        "houseDetails": {
+            "numOfBedrooms": 2,
+            "numOfBathrooms": 3,
+            "numOfParkingSpaces": 0,
+            "petFriendly": "Yes",
+            "minLeaseTime": "2 years"
+        },
+        "description": "Available immediately, this secluded and private two bedroom apartment brings nature home with landscaped gardens at your window and a choice of great parks, surrounding this pretty urban village, just waiting to be enjoyed. Sunlight flows through each interior, creating bright and comfortable living spaces, highlighting the impressive design detail and finish. Daylight accentuates the sheen on the natural stone floor in the hallway, and brings a warm glow to solid oak floors in the bedrooms and dining area.",
+        "additionalInfo": "Join a community of nature enthusiasts, health buffs and pleasure seekers who appreciate the outdoors and creative energy of Ranelagh’s incredible eateries, bars and boutiques.Virtual tours enable you to view apartments while respecting social distancing guidelines. They are helpful in illustrating the layout and interior style of a sample residence."
+    },
+    {
+        "houseID": "0013",
+        "houseTitle": "Mountjoy Living",
+        "housePicture": "https://res.cloudinary.com/essential-living/image/upload/ar_1.7772511848341233,c_fill,g_auto,w_1920/f_auto/q_auto/v1/Developments/Union%20Wharf/Apartments/3%20Bed/union-wharf-3-bed-wh03_12?_a=ATO2BAA0",
+        "houseRentPrice": "850€",
+        "houseAddress": "Summerhill Avenue, 3333",
+        "carrousselPictures": [
+            "https://mapartments.co.uk/uploads/transforms/ee3d3e77d2ab49612c3cb74350991123/67946/AG-2_1BED_CAM_AG_2022_7abbbb2796f27c91ef535646dc2c5299.webp",
+            "https://i.ytimg.com/vi/Ylehg7ANX9c/maxresdefault.jpg",
+            "https://leasingkc.com/wp-content/uploads/2018/12/IMG_7446-1-1024x682.jpg"
+         ],
+        "houseDetails": {
+            "numOfBedrooms": 1,
+            "numOfBathrooms": 1,
+            "numOfParkingSpaces": 0,
+            "petFriendly": "Yes",
+            "minLeaseTime": "1 year"
+        },
+        "description": "High quality student accommodation complex. Classic rooms available from €267 per week including bills (Heat, electricity, internet etc.). All bills Included. Fully furnished spacious bedroom with en suite situated within cluster apartments that range from 4-8 bedrooms. Available from September - shorter term summer bookings available at alternative Studenthouse.com residences. ",
+        "additionalInfo": "Top location within walking distance of Dublin City Centre. On site facilities include: - Gym - Games room - Study rooms - Free Wi-Fi - Cinema - Roof top terrace - Courtyards Viewing highly recommended."
+    }
+]
