@@ -1,0 +1,124 @@
+<html>
+
+<head>
+    <link rel="stylesheet" href="/styles/product.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.0/css/all.css">
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
+    <script type="module" src="/js/index.js"></script>
+    <title> HomeFinder</title>
+</head>
+
+<body>
+    <nav class="navbar">
+        <a href="home.html"> <img src="/assets/logo.png" alt="" class="logo"> </a>
+        <ul class="navbar-links">
+            <li class="navbar-links-items"> <a href="#"> Filter homes </a> </li>
+            <li class="navbar-links-items"> <a href="#"> Announce with us </a>  </li>
+            <li class="navbar-links-items"> <a href="#"> About us </a> </li>
+            <li class="navbar-links-items"> <a href="#"> Login </a> </li>
+        </ul>
+    </nav>
+
+    <main class="product-page-content">
+        <div class="house-info-container">
+            <div class="carousel">
+                <div class="container" id="img">
+                </div>
+            </div>
+
+            <div class="house-info-details">
+                <span id="house-info-details-title"> </span>
+                <div class="house-specs">
+                    <div id="specs-title" class="house-specs-columns">
+                        <span> Bedrooms </span>
+                        <span> Bathrooms </span>
+                        <span> Parking spaces </span>
+                        <span> Pet friendly </span>
+                        <span> Minimum lease time </span>
+                    </div>
+                    <div id="specs-values" class="house-specs-columns">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="house-description-container">
+            <p id="house-description-container">  </p>
+        </div>
+
+        <div class="house-additional-info-container">
+            <span id="house-additional-info-title"> Additional Info for  </span>
+            <p id="house-additional-info-content"></p>
+        </div>
+
+        <button> <a href="checkout.html"> Contact an agent </a> </button>
+    </main>
+
+    <footer>
+        <div class="upper-footer">
+            <ul class="footer-links-walkthrough">
+                <li> Jobs available </li>
+                <li> Any doubts? Live chat <a href="#"> here </a> </li>
+                <li> Terms </li>
+                <li> Open Monday to Friday, from 9AM to 7PM </li>
+            </ul>
+
+            <ul class="footer-links-media">
+                <li> <img class="social-media-icons" src="/assets/twitter-icon.png" alt="twitter icon"> </li>
+                <li> <img class="social-media-icons" src="/assets/fb-icon.png" alt="facebook icon"> </li>
+                <li> <img class="social-media-icons" src="/assets/ig-icon.png" alt="instagram icon"> </li>
+            </ul>
+        </div>
+        <span class="rights"> All rights reserved </span>
+    </footer>
+    <script>
+        const imgs = document.getElementById("img");
+        const specsValues = document.getElementById("specs-values");
+        const houseInfoDetailsTitle = document.getElementById("house-info-details-title");
+        const houseDescription = document.getElementById("house-description-container");
+        const additionalInfoTitle = document.getElementById("house-additional-info-title");
+        const additionalInfoContent = document.getElementById("house-additional-info-content");
+
+        const dataObj = { ...localStorage };
+        let parseIntoJSON;
+
+        for (let obj in dataObj) {
+            parseIntoJSON = JSON.parse(dataObj[obj]);
+        }
+
+        for (let img of parseIntoJSON.carrousselPictures) {
+            const houseImgs = `<img src="${img}" alt="house-picture"/> `;
+            imgs.insertAdjacentHTML('beforeend', houseImgs);
+        }
+        
+        houseInfoDetailsTitle.textContent += parseIntoJSON["houseTitle"];
+
+        houseDescription.textContent += parseIntoJSON["description"];
+
+        additionalInfoTitle.textContent += parseIntoJSON["houseTitle"];
+        additionalInfoContent.textContent += parseIntoJSON["additionalInfo"];
+
+        for (let element in parseIntoJSON.houseDetails) {
+            const houseSpecsSpan = `<span> ${parseIntoJSON.houseDetails[element]} </span> `;
+            specsValues.insertAdjacentHTML('beforeend', houseSpecsSpan);
+        }
+
+        const img = document.querySelectorAll("#img img");
+
+
+        let idx = 0;
+        function carousel() {
+            idx++;
+            if (idx > img.length - 1) {
+                idx = 0;
+            }
+
+            imgs.style.transform = `translateX(${(-idx * 500)}px)`
+        }
+
+        setInterval(carousel, 8000);
+    </script>
+</body>
+</html>
